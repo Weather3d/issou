@@ -617,7 +617,6 @@
   "action.info.reward.population": "Cela augmentera la population de la ville la plus proche. Lorsque la population deviendra suffisamment grande, la ville augmentera de niveau et produira plus de ressources",
   "action.info.reward.resources": "Cela vous donnera une récompense instantanée de {0} ressources",
   "action.info.research": "research {0}.",
-
   "actionbtn.upgrade": "Mettre à niveau vers {0}",
   "actionbtn.remove.building": "Bâtiment",
   "actionbtn.remove.roads": "Routes",
